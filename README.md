@@ -1,7 +1,3 @@
-<div align="center" style="position: relative; width: 100%; max-width: 1000px; margin: auto;">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Rotating Border" style="position: absolute; width: 100%; height: 100%; object-fit: cover; z-index: -1; opacity: 0.3; border-radius: 12px;" />
-  <div style="position: relative; padding: 30px; z-index: 1; background-color: rgba(255,255,255,0.9); border-radius: 12px;">
-
 <h1 align="center">Hi 👋, I'm Kiran Ghosh</h1>
 <h3 align="center">A passionate Fullstack Developer now diving deeper into Data Science</h3>
 
@@ -25,7 +21,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -43,7 +39,6 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-<!-- Icons here (same as your original list) -->
 
 </p>
 
@@ -58,6 +53,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-ghosh004&" alt="GitHub Streak" />
 </p>
-
-  </div>
-</div>
